@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+aiassistant/__init__.py
+aiassistant/aiassistant.py
+aiassistant.egg-info/PKG-INFO
+aiassistant.egg-info/SOURCES.txt
+aiassistant.egg-info/dependency_links.txt
+aiassistant.egg-info/requires.txt
+aiassistant.egg-info/top_level.txt
